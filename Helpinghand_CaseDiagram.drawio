@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="aaa8_JVOS-4LMMhdnph_">
-    <mxGraphModel>
+    <mxGraphModel dx="2842" dy="2690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VCP87kzTog4h1_V5pYS--6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;gradientColor=none;gradientDirection=north;strokeColor=none;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-200" width="2360" height="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--28" value="Register" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="235" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--29" value="Choose Service Product" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="235" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--30" value="Make Deposit" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="290" y="235" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--31" value="Collect Product" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="520" y="165" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--32" value="Hire Subscribe To Service" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--33" value="Return Product" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="740" y="165" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--34" value="Rate" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="960" y="230" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VCP87kzTog4h1_V5pYS--37" value="Browse Catalogue" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="235" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
